@@ -1,4 +1,4 @@
-## Symphonia - AWS, Cloud, and Serverless consultants
+## Symphonia - AWS, Cloud, and Serverless consultant
 
 ![Hello from Symphonia!](https://blog.symphonia.io/images/logo-text-horizontal-white-on-blue-500.png)
 
