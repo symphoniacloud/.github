@@ -22,7 +22,7 @@ Quick start "template" repos:
 * [CDK barebones template](https://github.com/symphoniacloud/cdk-barebones-template) - preparing for CDK, and deploying an empty application
 * [CDK serverless template](https://github.com/symphoniacloud/cdk-serverless-teamplate) - Adds a Lambda Function resource; source code + build for the Lambda Function; unit + in-cloud integration tests
 * [CDK basic website template](https://github.com/symphoniacloud/cdk-basic-website-template) - Website hosting on AWS with CloudFront and S3
-* [CDK basic website template](https://github.com/symphoniacloud/cdk-full-website-template) - A further extension of _CDK basic website template_ that is a real working demo of a production-ready website project, including TLS certificates, DNS hosting, Github Actions Workflows, multiple CDK environments (prod vs test vs dev)
+* [CDK full website template](https://github.com/symphoniacloud/cdk-full-website-template) - A further extension of _CDK basic website template_ that is a real working demo of a production-ready website project, including TLS certificates, DNS hosting, Github Actions Workflows, multiple CDK environments (prod vs test vs dev)
 
 ### Example Applications
 
