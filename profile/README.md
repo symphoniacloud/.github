@@ -19,7 +19,7 @@ You don't need to buy the book to see the example source code though - you can f
 
 Quick start "template" repos:
 
-* ["Bare Bones"](https://github.com/symphoniacloud/cdk-bare-bones) - preparing for CDK, and deploying an empty application
-* [Coffee Store V2](https://github.com/symphoniacloud/coffee-store-v2) - Adds a Lambda Function resource; source code + build for the Lambda Function; unit + in-cloud integration tests
+* [CDK Barebones Template](https://github.com/symphoniacloud/cdk-barebones-template) - preparing for CDK, and deploying an empty application
+* [CDK Serverless Template](https://github.com/symphoniacloud/cdk-serverless-teamplate) - Adds a Lambda Function resource; source code + build for the Lambda Function; unit + in-cloud integration tests
 * [Coffee Store Web Basic](https://github.com/symphoniacloud/coffee-store-web-basic) - Website hosting on AWS with CloudFront and S3
 * [Coffee Store Web Full](https://github.com/symphoniacloud/coffee-store-web-full) - A further extension of _Coffee Store Web Basic_ that is a real working demo of a production-ready website project, including TLS certificates, DNS hosting, Github Actions Workflows, multiple CDK environments (prod vs test vs dev)
